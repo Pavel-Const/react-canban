@@ -15,10 +15,10 @@
 
 
 ## Ссылка на сайт
-    https://pavel-const.github.io/react-canban/
+   https://pavel-const.github.io/react-canban/
 
 ### используются технологии
-    JS, CSS, HTML, WebPack, GIT
+    React, CSS, HTML, WebPack, GIT
     
 ### Инструкция по запуску локально
 1. Установить npm-зависимости: npm i
