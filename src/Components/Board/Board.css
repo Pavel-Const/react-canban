@@ -1,0 +1,12 @@
+.Board{
+    display: flex;
+    flex-grow: 1;
+    width: 100vw;
+    background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);
+}
+
+.Board h1{
+    color: #fff;
+    align-items: center;
+    text-align: center;
+}

@@ -1,0 +1,76 @@
+.CardPopup {
+    color: black;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+
+}
+
+.CardPopup-body {
+    display: flex;
+    position: relative;
+    padding: 20px;
+    width: 350px;
+    border-radius: 5px;
+    background: white;
+    height: 300px;
+    flex-direction: column;
+    padding-top: 10px;
+    justify-content: space-between;
+}
+
+.CardPopup-input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    background: none;
+    font-size: 25px;
+    color: #7969e6;
+    border: none;
+    width: 100%;
+
+}
+
+.CardPopup-input:hover{
+    cursor: pointer;
+    color: #5041b2;
+}
+
+.CardPopup h2{
+    font-size: 20px;
+    color: #1d0e91;
+    margin: 0;
+    padding: 0;
+}
+
+.CardPopup-close{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.CardPopup-delete{
+    position: absolute;
+    top: 0;
+    right: 50px;
+}
+
+.CardPopup-description{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 90%;
+    height: 100px;
+    font-size: 20px;
+    color: #1d0e91;
+    margin: 0;
+    padding: 10px;
+}
+
+.CardPopup-authorName{
+    align-self: end;
+}
