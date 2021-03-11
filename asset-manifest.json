@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-canban/static/css/main.d493fccf.chunk.css",
+    "main.js": "/react-canban/static/js/main.b71ee400.chunk.js",
+    "main.js.map": "/react-canban/static/js/main.b71ee400.chunk.js.map",
+    "runtime-main.js": "/react-canban/static/js/runtime-main.a9b2e156.js",
+    "runtime-main.js.map": "/react-canban/static/js/runtime-main.a9b2e156.js.map",
+    "static/js/2.5acf5439.chunk.js": "/react-canban/static/js/2.5acf5439.chunk.js",
+    "static/js/2.5acf5439.chunk.js.map": "/react-canban/static/js/2.5acf5439.chunk.js.map",
+    "static/js/3.f0ece0b2.chunk.js": "/react-canban/static/js/3.f0ece0b2.chunk.js",
+    "static/js/3.f0ece0b2.chunk.js.map": "/react-canban/static/js/3.f0ece0b2.chunk.js.map",
+    "index.html": "/react-canban/index.html",
+    "static/css/main.d493fccf.chunk.css.map": "/react-canban/static/css/main.d493fccf.chunk.css.map",
+    "static/js/2.5acf5439.chunk.js.LICENSE.txt": "/react-canban/static/js/2.5acf5439.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9b2e156.js",
+    "static/js/2.5acf5439.chunk.js",
+    "static/css/main.d493fccf.chunk.css",
+    "static/js/main.b71ee400.chunk.js"
+  ]
+}
